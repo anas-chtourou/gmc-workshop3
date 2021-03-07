@@ -5,7 +5,7 @@ Install Vagrant and VirtualBox in your Vagrant Host machine.
 Clone repository:
 
 ```bash
-git clone https://github.com/mdnfiras/gmc-workshop3.git
+git clone https://github.com/anas-chtourou/gmc-workshop3.git
 ```
 
 Launch & SSH into the workshop's Vagrant VM.
