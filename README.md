@@ -50,5 +50,10 @@ Print the initial admin password:
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
+Add Compiler
+```bash
+sudo apt-get install build-essential
+```
+
 Exit the VM's SSH session, visit the VM's IP address http://192.168.20.2:8080 in your web browser and paste the password to get access to Jenkins' web interface.
 
